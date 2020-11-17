@@ -39,9 +39,8 @@ $ ./mkFromCode --help
 Simple file manager. Directories can be tagged
 and have keywords associated with them via a 
 hidden .hdKeys file. 
-Methods for filtering these directories using
-logical | and & operators will be added (TODO).
-Directory choice will be via fzf (TODO).
+Has methods for filtering these directories using
+logical | and & operators.
 
 Additional functions can be added to a .bashrc
 file from the output of:
