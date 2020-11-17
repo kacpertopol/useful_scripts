@@ -146,23 +146,3 @@ $ ./simplecal --help
 ## rssReader
 
 Small application to scan feeds. TODO
-
-## cam
-
-Presentations using webcam. More info
-in cam/README.md.
-
-- print page with markers
-- tilt laptop webcam to see all markers on page
-- run
-
-```
-aruco_cam
-```
-
-More info:
-
-```
-aruco_cam -h
-```
-and cam/README.md.
